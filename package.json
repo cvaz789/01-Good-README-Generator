@@ -19,6 +19,7 @@
   "dependencies": {
     "fs": "0.0.1-security",
     "inquirer": "^7.1.0",
+    "markdown-js": "0.0.4",
     "util": "^0.12.3"
   }
 }
