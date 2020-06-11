@@ -7,23 +7,35 @@ The user will be prompted for their GitHub username and other information pertai
 The README will be populated with the following:
 
 ## Project Title
-contributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributing
+D
+
+## Badges
+AS
+
 ## Table of Contents
 * [Description](#description)
 * [Installation](#installation)
 * [License](#license)
 * [Contributing](#contributing)
 * [Tests](#tests)
+
 ## Description
-contributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributing
+AS
+
 ## Installation
-contributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributing
+DA
+
 ## License
-contributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributingcontributing
+SD
+
+![GitHub](https://img.shields.io/github/license/cvaz789/01-Good-README-Generator?style=social)
+
 ## Contributing
-contributingcontributingcontributingcontributingcontributingcontributing
+A
+
 ## Tests
-contributingcontributingcontributingcontributingcontributingcontributing
+SD
+
 ## Questions
             * User GitHub profile picture
             * User GitHub email

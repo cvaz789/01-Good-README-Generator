@@ -67,22 +67,33 @@ The README will be populated with the following:
 
 ## Project Title
 ${response.title}
+
+## Badges
+${response.badge}
+
 ## Table of Contents
 * [Description](#description)
 * [Installation](#installation)
 * [License](#license)
 * [Contributing](#contributing)
 * [Tests](#tests)
+
 ## Description
 ${response.description}
+
 ## Installation
 ${response.installation}
+
 ## License
-${response.license}
+${response.license}\n
+![GitHub](https://img.shields.io/github/license/cvaz789/01-Good-README-Generator?style=social)
+
 ## Contributing
 ${response.contributing}
+
 ## Tests
 ${response.tests}
+
 ## Questions
             * User GitHub profile picture
             * User GitHub email
