@@ -69,7 +69,8 @@ The README will be populated with the following:
 ${response.title}
 
 ## Badges
-${response.badge}
+${response.badge}\n
+![GitHub](https://img.shields.io/github/license/cvaz789/01-Good-README-Generator?style=social)
 
 ## Table of Contents
 * [Description](#description)
@@ -86,7 +87,7 @@ ${response.installation}
 
 ## License
 ${response.license}\n
-![GitHub](https://img.shields.io/github/license/cvaz789/01-Good-README-Generator?style=social)
+
 
 ## Contributing
 ${response.contributing}
@@ -97,11 +98,6 @@ ${response.tests}
 ## Questions
             * User GitHub profile picture
             * User GitHub email
-*[ What is this? ]
-[common templates for user stories](https://en.wikipedia.org/wiki/User_story#Common_templates)
-
-The user will be prompted for their GitHub username and other information pertaining to the project the README is for.
-The README will be populated with the following:
 `
 );
         
